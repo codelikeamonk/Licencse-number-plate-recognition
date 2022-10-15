@@ -67,7 +67,7 @@ def ratio_and_rotation(rect):
 top=tk.Tk()
 top.geometry('900x700')
 top.title('Number Plate Recognition')
-top.iconphoto(True, PhotoImage(file="/home/shivam/Dataflair/Keras Projects_CIFAR/GUI/logo.png"))
+top.iconphoto(True, PhotoImage(file="/home/jash/Dataflair/Keras Projects_CIFAR/GUI/logo.png"))
 img = ImageTk.PhotoImage(Image.open("logo.png"))
 top.configure(background='#CDCDCD')
 label=Label(top,background='#CDCDCD', font=('arial',35,'bold'))
