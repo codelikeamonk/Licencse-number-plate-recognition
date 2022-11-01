@@ -1,4 +1,4 @@
-# Licencse Number Plate Recognition using Deep Learning
+# License Number Plate Recognition using Deep Learning
 This project aims to recognize license number plates.
 
 # Tools
